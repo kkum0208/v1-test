@@ -1,0 +1,5 @@
+{
+  "name": "Zen Strike: Tai Chi vs Wing Chun",
+  "description": "A browser-based arcade fighting game featuring two distinct martial arts styles using a custom React + Canvas engine.",
+  "requestFramePermissions": []
+}
